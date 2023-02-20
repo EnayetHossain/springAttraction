@@ -1,0 +1,1 @@
+<h1 style="color: rgb(116, 28, 227)">How to run on your machine</h1><ol><li>Make sure you have python installed</li><li>Clone this repository in your machine using <code>git clone </code></li><li>Install pygame using <code>pip install pygame</code></li><li><code>cd springAttraction</code></li><li><code>python main.py</code></li></ol>
